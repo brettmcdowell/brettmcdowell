@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**brettmcdowell/brettmcdowell**
-
 ### 🔭 I’m currently working on:
 #### * Developing a Gym App, that tracks your progress and recommends exercises based on your exerted effort to reach close to failure
 #### * Developing a Productivity Assistant that will import your Google/Apple Calendar and give you statistics on your productivity around your utilised/unutilised time
