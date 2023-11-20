@@ -5,8 +5,8 @@
 ### 🔭 I’m currently working on:
 #### * Developing a Gym App, that tracks your progress and recommends exercises based on your exerted effort to reach close to failure
 #### * Developing a Productivity Assistant that will import your Google/Apple Calendar and give you statistics on your productivity around your utilised/unutilised time
-### - 🌱 I’m currently learning: C, C++, Java, React
-### - 📫 How to reach me:
+### 🌱 I’m currently learning: C, C++, Java, React
+### 📫 How to reach me:
   ##### * brettmcdowell222@gmail.com
   ##### * https://uk.linkedin.com/in/brett-mcdowell-8892681bb
 
