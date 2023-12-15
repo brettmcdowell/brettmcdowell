@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 🔭 I’m currently working on:
-#### * Developing a Gym App, that tracks your progress and recommends exercises based on your exerted effort to consistently reach close to failure in your gym sessions
+#### * Developing a React app that utilises a Weather API 
 #### * Developing a Productivity Assistant that will import your Google/Apple Calendar and give you statistics on your productivity around your utilised/unutilised time
 ### 🌱 I’m currently learning: C, C++, Java, React
 ### 📫 How to reach me:
