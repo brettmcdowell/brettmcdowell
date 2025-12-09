@@ -1,15 +1,6 @@
 <h1 align="left">Hello there! 👋</h1>
-
+<h3 align="left">Languages I know:</h3>
 ###
-
-<img src="https://raw.githubusercontent.com/brettmcdowell/brettmcdowell/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h3 align="left">I'm Brett McDowell, a MEng Computer Science student at Durham University!<br><br><br>Languages I know:</h3>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
   <img width="12" />
@@ -27,5 +18,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="60" alt="haskell logo"  />
 </div>
-
 ###
