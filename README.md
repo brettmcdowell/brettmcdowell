@@ -1,5 +1,5 @@
 <h1 align="left">Hello there! 👋</h1>
-<h3 align="left">Languages I know:</h3>
+<h3 align="left">Languages/Frameworks I know:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
   <img width="12" />
